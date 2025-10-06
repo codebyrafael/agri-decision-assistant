@@ -1,0 +1,17 @@
+# Framework para a interface
+streamlit
+
+# Manipulação de dados
+pandas
+numpy
+
+# Machine Learning (se quiser adicionar modelos depois)
+scikit-learn
+
+# Visualização de gráficos interativos
+plotly
+
+# Extras opcionais
+matplotlib
+seaborn
+
